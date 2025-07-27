@@ -27,8 +27,8 @@ The system follows a multi-agent architecture where each agent runs as a separat
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/weekend-wizard.git
-cd weekend-wizard
+git clone https://github.com/yourusername/plan-pals.git
+cd plan-pals
 ```
 
 2. Create and activate a virtual environment
