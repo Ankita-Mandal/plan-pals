@@ -9,6 +9,7 @@ PlanPals is an intelligent weekend planner that uses Google's A2A (Agent-to-Agen
 1. **Weather Agent** - Checks weather predictions for the upcoming weekend
 2. **Event Finder Agent** - Searches Eventbrite and local calendars for upcoming events
 3. **Host Agent** - Coordinates between agents and suggests optimal weekend plans based on weather conditions and user preferences
+4. *(Future)* **Messenger Agent:** Sends finalized plans to friends.
 
 ## Architecture
 
