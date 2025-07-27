@@ -70,10 +70,3 @@ python -m __main__
 
 Access the Host Agent UI at: http://localhost:10000
 
-## License
-
-MIT
-
-## Acknowledgements
-
-Built with Google's A2A SDK
